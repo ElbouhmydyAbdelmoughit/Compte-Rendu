@@ -1,0 +1,129 @@
+Resume pour la premiere semaine a -SAS- YOUCODE :
+ 
+ 1)-Definition de Git et Github :
+
+    1-1)-Git : Un logiciel , un outil permettant de controler
+               la ou les versions d'un projet informatique.
+
+    1-2)-Github : GitHub est une plateforme open source de 
+                  gestion de versions et de collaboration 
+                  destinée aux développeurs de logiciels.
+2)-Les commendes de :
+
+   2-1) Git :
+         - git clone.                   
+         - git init.                    
+         - git add.                     
+         - git commit -m "commentaire". 
+         - git revert.                  
+         - git checkout.                
+         - git branch.                  
+         - git push.                    
+         - git pull. 
+
+   2-2) Linux :
+         - cmd . 
+         - cd . 
+         - mkdir .
+         - ls. 
+         - dir . 
+         - touch . 
+         -pwd .
+
+    2-3) Live coding (Les Challenges de Git ).
+                   
+3)- Les vielles :
+     
+     * Github    VS   Git.
+     * Github    VS   GitLab.
+     * Github    VS   BitBacket.
+     * Github    VS   SVN.
+     * Github    VS   Azure Devops.
+     * histoire d langeg C.
+     * Langage C VS Langage C++.
+     * langage interprété et compilé.
+     * les types de variable.
+
+4) Langage C :
+  
+  4-1) Les variables.
+
+    4-1-1) les types de variables:
+
+          * int.
+          * short int.
+          * long int.
+          * char.
+          * float.
+          * bool.
+
+    4-2) les boucles :
+         
+          * for.
+          * while.
+          * do... while.
+
+    4-3) Les operateurs :
+     4-3-1) Les opérateurs de calcul :
+           
+           * + ==>  Ex : a + b.
+           * - ==>  Ex : a - b.
+           * * ==>  Ex : a * b.
+           * / ==>  Ex : a / b.
+           * % ==>  Ex : a % b.
+
+     4-3-2 ) Les opérateurs d'assignation :
+             
+           * += ==> Ex : a+ = b.
+           * -= ==> Ex : a- = b.
+           * *= ==> Ex : a* = b.
+           * /= ==> Ex : a/ = b.
+
+     4-3-3) Les opérateurs d'incrémentation :
+        
+           * ++ ==> Ex : a++;
+           * -- ==> Ex : a--;
+    
+     4-3-4) Les opérateurs de comparaison :
+ 
+           * == 
+           * <
+           * <=
+           * >
+           * >=
+           * !=
+
+     4-3-5) Les opérateurs logiques
+ 
+           * ||
+           * &&
+           * !
+  4-4) les conditions :
+  
+           * if
+           * else if
+           * else
+
+  4-2) Les fonctions.
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
